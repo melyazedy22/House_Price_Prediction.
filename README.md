@@ -1,4 +1,4 @@
-# Syntecxhub_House_Price_Prediction.
+# House_Price_Prediction.
 Project 1 - Week 1
 # 🏠 House Price Prediction (California Housing)
 
